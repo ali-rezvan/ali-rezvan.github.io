@@ -17,7 +17,14 @@
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">ICDL</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">زبان انگلیسی در حد خوب</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">زبان فرانسه در حد مبتدی</div>
-
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">زبان فرانسه در حد مبتدی</div>
+<div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
+<div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">گواهینامه ها و دوره ها&nbsp;-</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">مهندسی ماکروسافت&nbsp; 2009 آدانا ترکیه</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">&nbsp; &nbsp; 2009&nbsp; CCNA</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">دوره اپراتوری اگزیمرو فمتوسکند لیزر در شرکت فجرشاهد و سوفیاطب</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">بازاریابی از مدیریت صنعتی</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">استقرار سیستم مدیریت کیفیت ایزو 9001:2008 از مدیریت صنعتی</div>
 
 You can use the [editor on GitHub](https://github.com/ali-rezvan/alirezvan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
