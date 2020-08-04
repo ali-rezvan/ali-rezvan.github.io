@@ -1,6 +1,10 @@
-<div style=" color: #fgff;  text-align: center; font-size=30px">
-    به صفحه من خوش آمدید
-</div>
+<div style="
+            color: #fgff;  padding: 1px; text-align: center; font-size:25px ">
+  
+
+به صفحه من خوش آمدید</div>
+
+
 
 You can use the [editor on GitHub](https://github.com/ali-rezvan/alirezvan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
