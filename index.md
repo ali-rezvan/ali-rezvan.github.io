@@ -1,4 +1,4 @@
-<div style=" color: #fgff; m text-align: center; font-size=25px">
+<div style=" color: #fgff;  text-align: center; font-size=30px">
     به صفحه من خوش آمدید
 </div>
 
