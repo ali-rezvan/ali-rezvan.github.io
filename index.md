@@ -1,5 +1,12 @@
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">شماره تماس : 09177028921</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">ali.rezvan@gmail.com : پست الکترونیک</div>
+<div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
+<div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">درباره من -</div>
+<div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">پانزده سال سابقه در مدیریت آی تی در بخش درمانی و اپراتوری دستگاه های لیزر چشم پزشکی</div>
+<div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
+<div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">تحصیلات -</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کارشناسی صنایع از دانشگاه آزاد گچساران</div>
 
 
 You can use the [editor on GitHub](https://github.com/ali-rezvan/alirezvan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
