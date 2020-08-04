@@ -7,6 +7,16 @@
 <div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">تحصیلات -</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کارشناسی صنایع از دانشگاه آزاد گچساران</div>
+<div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
+<div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">سوابق کاری -</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کلینیک چشم پزشکی بیناگستر شیراز از 1384 تا اکنون</div>
+<div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
+<div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">مهارت ها -</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">اپراتوری دستگاههای اگزایمر و فمتوسکند لیزر چشم پزشکی</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">طراحی و راه اندازی سخت افزار و نرم افزار شبکه های تحت ویندوز</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">ICDL</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">زبان انگلیسی در حد خوب</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">زبان فرانسه در حد مبتدی</div>
 
 
 You can use the [editor on GitHub](https://github.com/ali-rezvan/alirezvan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
