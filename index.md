@@ -1,9 +1,5 @@
-<div style="
-            color: #fgff;  padding: 1px; text-align: center; font-size:25px ">
-  
-
-به صفحه من خوش آمدید</div>
-
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">شماره تماس : 09177028921</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">ali.rezvan@gmail.com : پست الکترونیک</div>
 
 
 You can use the [editor on GitHub](https://github.com/ali-rezvan/alirezvan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
