@@ -1,5 +1,5 @@
-<div text-align: center;>
-متن کامنت با فرمت مارک‌داون
+<div align="center">
+به صفحه من خوش آمدید
 </div>
 You can use the [editor on GitHub](https://github.com/ali-rezvan/alirezvan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
