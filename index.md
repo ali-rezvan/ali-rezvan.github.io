@@ -1,4 +1,12 @@
-
+<div style="background-color: grey; color: #fff; min-height: 100px; padding: 10px; text-align: center;">
+    <div style="background-color: green;float: left;min-width: 150px;">
+        Green div
+    </div>
+    <div style="background-color: blue;float: right;padding: 15px;">
+        Blue div
+    </div>
+    Container div
+</div>
 <div align="center" >
 به صفحه من خوش آمدید
 </div>
