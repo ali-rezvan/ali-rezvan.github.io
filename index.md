@@ -1,4 +1,7 @@
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">متولد 1355&nbsp;</div>
+<div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">شماره تماس : 09177028921</div>
+<div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">ali.rezvan@gmail.com : پست الکترونیک</div>
 <div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">درباره من -</div>
@@ -31,4 +34,3 @@
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">بازاریابی از مدیریت صنعتی</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">استقرار سیستم مدیریت کیفیت ایزو 9001:2008 از مدیریت صنعتی</div>
-
