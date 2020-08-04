@@ -1,4 +1,4 @@
-<div style="background-color: grey; color: #fff; min-height: 100px; padding: 10px; text-align: center;">
+<div style=" color: #fff; m text-align: center; font-size=25px">
     به صفحه من خوش آمدید
 </div>
 
