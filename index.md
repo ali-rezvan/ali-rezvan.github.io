@@ -30,8 +30,8 @@
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">&nbsp; &nbsp; 2009&nbsp; CCNA</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">دوره اپراتوری اگزیمرو فمتوسکند لیزر در شرکت فجرشاهد و سوفیاطب</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">دوره اپراتوری اگزایمر و فمتوسکند لیزر در شرکت فجرشاهد و صوفیاطب</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">بازاریابی از مدیریت صنعتی</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">دوره بازاریابی از مدیریت صنعتی</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">استقرار سیستم مدیریت کیفیت ایزو 9001:2008 از مدیریت صنعتی</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">دوره استقرار سیستم مدیریت کیفیت ایزو 9001:2008 از مدیریت صنعتی</div>
